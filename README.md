@@ -1,16 +1,22 @@
-# Why R? Premeetings Series
+# Why R? 2020 Premeetings Series
 
+<img src="http://whyr.pl/2020/img/whyr2020/meetings.jpg" class="fit image">
 
 ### Why R pre-meetings and Conference
 
-Thw Why R Foundation is a Polish R user community foundation.
-They are running a series of pre-meetings around Europe in anticipation of their main conference in Warsaw in August 2020.
+The Why R Foundation is a European R user community foundation.
+They are running a series of pre-meetings around Europe in anticipation of their [main conference](https://whyr.pl/2020/) in Warsaw in August 2020.
+
+<img src="/foundation/images/fulls/whyr2020/cover2020.jpg" class="image">
+
 The Irish events would be part of that series. We are planning to develop something similar in Ireland.
 
-As an aside, Why R are bidding to host UseR! 2021 in Warsaw, and are in the shortlist of the final three candidates.
+As an aside, Why R was bidding to host UseR! 2021 in Warsaw, and were in the shortlist of the final three candidates. 
 
 
 ### African Events
+
+<img src="http://whyr.pl/2020/img/whyr2020/africa" class="fit image">
 
 Why R are also financially supporting a series of events in Africa over the spring.
 * a SatRdays conference in both Abidjan (Cote d'Ivoire) and Johannesburg (South Africa)
